@@ -1,5 +1,5 @@
-# Animals-10-Classification-using-Transfer-Learning
-Leveraging Transfer Learning for classifying Animal Images
+# Animals-10 Classification using Transfer-Learning
+
 
 **Model used:** [EfficientNet_b0](https://pytorch.org/vision/stable/models/efficientnet.html)
 
